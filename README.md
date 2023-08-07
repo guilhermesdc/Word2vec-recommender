@@ -1,3 +1,3 @@
-# Word2vec-recommender
+# Gensim / Implicit
 
-Testando a função word2vec e a biblioteca implicit para gerar representações vetoriais para recomendações, com o uso de itens e usuarios.
+Testando as bibliotecas Gensim (Word2vec e Doc2vec) e implicit para gerar representações vetoriais para recomendações, com o uso de itens e usuarios.
